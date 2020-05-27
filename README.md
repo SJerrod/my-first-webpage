@@ -2,7 +2,7 @@
 
 #### _Vsc practice, 5.27.2020_
 
-#### By_** Jerrod Styrk**_
+#### By **Jerrod Styrk**
 
 ## Description
 
